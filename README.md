@@ -8,49 +8,34 @@ This project is a frontend recreation of the Netflix homepage using HTML and CSS
 
 🛠️ Technologies Used
 
-HTML5
-
-CSS3
+• HTML5
+• CSS3
 
 ▶️ How to Run
 
-Open the index.html file in your browser.
-
-Or use the Live Server extension in VS Code to preview the project.
+• Open the index.html file in your browser.
+• Or use the Live Server extension in VS Code to preview the project.
 
 💡 Features
 
-Netflix-inspired user interface
-
-Dark-themed design
-
-Responsive layout
-
-Hero/banner section
-
-Movie and TV show sections
-
-Image assets
-
-Custom favicon
-
-Clean and simple design
+• Netflix-inspired user interface
+• Dark-themed design
+• Responsive layout
+• Hero/banner section
+• Movie and TV show sections
+• Image assets
+• Custom favicon
+• Clean and simple design
 
 🚀 Future Improvements
 
-Add JavaScript functionality
-
-Add search functionality
-
-Add movie trailers
-
-Add login and signup pages
-
-Add interactive movie cards
-
-Add a backend and database
-
-Add user profiles
+• Add JavaScript functionality
+• Add search functionality
+• Add movie trailers
+• Add login and signup pages
+• Add interactive movie cards
+• Add a backend and database
+• Add user profiles
 
 👨‍💻 Author
 
