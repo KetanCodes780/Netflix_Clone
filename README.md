@@ -1,23 +1,57 @@
-Netflix Clone
+🎬 Netflix Clone
 
-A Netflix clone website built using HTML and CSS.
+A simple Netflix clone website built using HTML and CSS. It is designed to recreate the look and feel of Netflix.
 
-Technologies Used
+📌 Description
+
+This project is a frontend recreation of the Netflix homepage using HTML and CSS. It includes a navigation bar, hero section, movie/show sections, images, and a Netflix-inspired dark theme.
+
+🛠️ Technologies Used
 
 HTML5
 
 CSS3
 
-Project Structure
+▶️ How to Run
 
-index.html — Main webpage
+Open the index.html file in your browser.
 
-style.css — Styling
+Or use the Live Server extension in VS Code to preview the project.
 
-assets/ — Images and other assets
+💡 Features
 
-favicon.ico — Website favicon
+Netflix-inspired user interface
 
-Disclaimer
+Dark-themed design
 
-This project is made for educational and practice purposes only. It is not affiliated with or endorsed by Netflix.
+Responsive layout
+
+Hero/banner section
+
+Movie and TV show sections
+
+Image assets
+
+Custom favicon
+
+Clean and simple design
+
+🚀 Future Improvements
+
+Add JavaScript functionality
+
+Add search functionality
+
+Add movie trailers
+
+Add login and signup pages
+
+Add interactive movie cards
+
+Add a backend and database
+
+Add user profiles
+
+👨‍💻 Author
+
+KETAN
